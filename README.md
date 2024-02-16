@@ -104,4 +104,6 @@ Block explorer Polygon zkEVM link:  [Link](https://testnet-zkevm.polygonscan.com
 - **Harsh Nag**
 - **Ananya Bangera**
 - **Chaitya Vora**
+- **Yash Shroff**
 - **Smit Sekhadia**
+
